@@ -1,4 +1,4 @@
-# Krug_Thesis_Seed_Data
+# Krug_Seed_Data
 
 Created by David Mitchell Krug on 16-12-2025
 Last Updated: 16-12-2025
